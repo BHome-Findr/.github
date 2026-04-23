@@ -14,5 +14,6 @@ incomplete information.
 - Redis
 - Docker
 - HTTPie/Postman
+- JavaScript/TypeScript
   
 I'm probably missing some stack but since this is not the final list meh
